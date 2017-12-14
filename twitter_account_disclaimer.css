@@ -1,0 +1,39 @@
+body {
+	/*https://unsplash.com/@pbrandao*/
+	background: url(https://images.unsplash.com/uploads/141155339325423394b24/03982423?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+	background-size: 60%;
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+html {
+	height: 100%;
+}
+
+
+.container {
+		padding-top: 15%;
+}
+
+.row {
+	max-width: 65%;
+}
+
+h3 {
+	color: #0084b4;
+}
+
+ul {
+		padding-left: 25%;
+}
+
+li {
+	text-align: left;
+}
+
+#content {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	padding-left: 10%;
+}
